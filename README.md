@@ -6,7 +6,7 @@ It can understand user input (like "Suggest a Tamil horror movie on Netflix") an
 ## 💡 Features
 - Natural language understanding using trained intent classifier
 - Genre, language, actor, year, platform-based filtering
-- Uses `movies.json` with complete categorized movie data
+- Uses `genre.json'`,`language.json`,`platform.json` with complete categorized movie data
 - Fast and accurate movie suggestions
 - Easy to expand for new platforms or genres
 
